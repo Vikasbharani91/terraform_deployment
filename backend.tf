@@ -1,4 +1,4 @@
-/*
+
 terraform {
   backend "s3" {
     bucket         = "mybucket-vk-remote-state"
@@ -8,4 +8,3 @@ terraform {
     encrypt        = true
  }
 }
-*/
